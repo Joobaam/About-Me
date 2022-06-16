@@ -39,7 +39,7 @@
 <summary>🖥 프로젝트</summary>
 <div markdown="1">
     
-
+- 추후에 추가할 예정입니다!
 </div>
 </details>
 
@@ -48,7 +48,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![html5](https://img.shields.io/badge/html5-%23323330.svg?style=flat-square&logo=html5&logoColor=%23F7DF1E)
+![Jsp](https://img.shields.io/badge/jsp-%23323330.svg?style=flat-square&logo=jsp&logoColor=%23F7DF1E)
+![Html5](https://img.shields.io/badge/html5-red.svg?style=flat-square&logo=html5&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%232C5263.svg?style=flat-square&logo=postgresql&logoColor=%23F7DF1E)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+<br>
+![Jenkins](https://img.shields.io/badge/jenkins-white.svg?style=flat-square&logo=jenkins&logoColor=red)
+![Linux](https://img.shields.io/badge/linux-black.svg?style=flat-square&logo=linux&logoColor=white)
