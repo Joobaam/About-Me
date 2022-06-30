@@ -16,7 +16,7 @@
 >Java/SPRING
 
 ## 🔔 Info
-🔹 Portfolio > [https://www.notion.so/44d957da445d48e481a54cff08b74e4e](https://www.notion.so/44d957da445d48e481a54cff08b74e4e) <br>
-🔹 Blog > [https://www.notion.so/Cha-s-BLOG-a7f262c77fe64c729882ff3a959a2d64](https://www.notion.so/Cha-s-BLOG-a7f262c77fe64c729882ff3a959a2d64) <br>
+🔹 Portfolio > [https://seen-salute-f5f.notion.site/44d957da445d48e481a54cff08b74e4e](https://seen-salute-f5f.notion.site/44d957da445d48e481a54cff08b74e4e) <br>
+🔹 Blog > [https://seen-salute-f5f.notion.site/Cha-s-BLOG-a7f262c77fe64c729882ff3a959a2d64](https://seen-salute-f5f.notion.site/Cha-s-BLOG-a7f262c77fe64c729882ff3a959a2d64) <br>
 🔹 Email > [joubyung7@gmail.com](joubyung7@gmail.com) <br>
 🔹 Github > [https://github.com/Joobaam](https://github.com/Joobaam) <br>
